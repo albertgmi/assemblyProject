@@ -1,7 +1,7 @@
 # Assembly Project
 Assembly x86-dos-project
 
-# String Interleaver
+**String Interleaver**
 An Assembly program that takes two input strings and produces a single string composed of alternating characters from both inputs.
 For example, given "ABC" and "abc", the program outputs "AaBbCc".
 
